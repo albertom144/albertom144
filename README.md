@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Alberto
 
-<!--
-**amartin144/amartin144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Mathematics student at the University of Málaga,
+finishing a degree I've genuinely enjoyed. My academic interests
+sit at the intersection of measure theory, formal probability,
+and optimisation.
 
-Here are some ideas to get you started:
+## Technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, R, LaTeX
+- **Tools:** Git, Linux (Ubuntu, Debian, Arch)
+
+## Outside mathematics
+
+Chess, running, gym, and classic novels.
