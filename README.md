@@ -5,11 +5,11 @@ finishing a degree I've genuinely enjoyed. My academic interests
 sit at the intersection of measure theory, formal probability,
 and optimisation.
 
-## Technical skills
+### Technical skills
 
 - **Languages:** Python, R, LaTeX
 - **Tools:** Git, Linux (Ubuntu, Debian, Arch)
 
-## Outside mathematics
+### Outside mathematics
 
 Chess, running, gym, and classic novels.
