@@ -10,6 +10,6 @@ and optimisation.
 - **Languages:** Python, R, LaTeX
 - **Tools:** Git, Linux (Ubuntu, Debian, Arch)
 
-### Outside mathematics
+### Interests
 
 Chess, running, gym, and classic novels.
