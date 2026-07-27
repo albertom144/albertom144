@@ -1,16 +1,17 @@
-# Hi, I'm Alberto 
+# Buenas! Soy Alberto
 
-I'm a final-year Mathematics student at the University,
-finishing a degree I genuinely enjoy.
-My academic interests are virtually every corner of math.
-I particularly enjoy measure theory and formal probability,
-as well as linear algebra and abstract algebra.
+Soy recién graduado en Matemáticas.
+Actualmente trabajo de prácticas en consultoría.
+Mis intereses están contenidos sen las Matemáticas y la Programación.
+Así, en mi perfil subiré proyectos personales relacionados con estas áreas, especialmente la Estadística.
 
-### Technical skills
+## Habilidades técnicas
 
-- **Languages:** Python, R, LaTeX
-- **Tools:** Git, Linux (Ubuntu, Debian, Arch)
+- **Lenguajes**: Python, SQL, R, Haskell, Scala.
+- **Análisis numérico**: Numpy, Pandas, Scipy, PySpark, Matplotlib.
+- **Otras herramientas**: Linux, Git, LaTeX.
 
-### Interests
+## Intereses
 
-Chess, running, gym, and classic novels.
+Fuera del ámbito técnico, otras actividades que me entretienen en el tiempo libre son la lectura (especialmente novelas clásicas) y el deporte (principalmente correr, ir al gimnasio y el ciclismo).
+También disfruto todas las actividades relacionadas con el mar, como la playa y la pesca.
